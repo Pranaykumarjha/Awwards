@@ -14,9 +14,9 @@ A modern, animation-rich website inspired by Awwwards-winning designs, focused o
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo  
 
-🔗resplendent-pavlova-823701.netlify.app
+🔗 **[Click here to view the live project](https://resplendent-parlowa-823701.netlify.app)**
 
 ---
 
